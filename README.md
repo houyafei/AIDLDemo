@@ -278,9 +278,15 @@ shell@nikel:/ $ ps| grep -i -n 'com.example'
 > 通过绑定的方式实现创建ServiceConnection。
 > 获取AidlName对象的实例，从而实现对所有接口的调用。使用Aidl.Stub.asInstance(IBinder iBinder);
 
- ![用户端APP目录结构](https://github.com/houyafei/AIDLDemo/blob/master/image/client.png?raw=true)
- ![服务端APP目录结构](https://github.com/houyafei/AIDLDemo/blob/master/image/serverapp.png?raw=true)
- ![整个项目目录结构](https://github.com/houyafei/AIDLDemo/blob/master/image/thisproject.png?raw=true)
+
+> 服务端APP目录结构
+> ![服务端APP目录结构](https://github.com/houyafei/AIDLDemo/blob/master/image/serverapp.png?raw=true)
+
+> 用户端APP目录结构
+> ![用户端APP目录结构](https://github.com/houyafei/AIDLDemo/blob/master/image/client.png?raw=true)
+
+> 整个项目目录结构
+> ![整个项目目录结构](https://github.com/houyafei/AIDLDemo/blob/master/image/thisproject.png?raw=true)
 
 
 
